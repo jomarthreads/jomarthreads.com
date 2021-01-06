@@ -1,0 +1,20 @@
+title: JoMar Threads
+description: "Luxurious scarves and knitwear"
+baseurl: ""
+url: "https://jomarthreads.com"
+
+plugins: []
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - scripts/
+  - original_images/
