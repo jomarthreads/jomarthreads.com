@@ -37,10 +37,10 @@ Email: jomarthreads@gmail.com
 
 <img class="product-image"
    alt="{{ image.alt | xml_escape }}"
-   src="{{ site.baseurl }}/assets/images/{{ image.name }}-200w.jpg"
-   srcset="{{ site.baseurl }}/assets/images/{{ image.name }}-200w.jpg 200w,
-           {{ site.baseurl }}/assets/images/{{ image.name }}-400w.jpg 400w,
-           {{ site.baseurl }}/assets/images/{{ image.name }}-600w.jpg 600w" />
+   src="{{ site.baseurl }}/assets/images/{{ image.name }}@1x.jpg"
+   srcset="{{ site.baseurl }}/assets/images/{{ image.name }}@1x.jpg 1x,
+           {{ site.baseurl }}/assets/images/{{ image.name }}@2x.jpg 2x,
+           {{ site.baseurl }}/assets/images/{{ image.name }}@3x.jpg 3x" />
 
 {% if loopindex == 1 or forloop.index == page.images.length %}
 </div>
