@@ -22,7 +22,7 @@ images:
 
 # JoMar Threads
 
-Welcome to JoMar Threads — a collection of luxurious scarves that I've knitted and beaded by hand. I've spent most of my life in and around Los Angeles, and the city has inspired me with everything from Busby Berkeley musicals to Frank Lloyd Wright's Hollyhock House. This is where I first needlepointed — a fantastic way to explore color, yarns and embellishments including beads — and then transitioned back into knitting as wearable art.
+Welcome to JoMar Threads — a collection of luxurious knitwear that I've knitted and beaded by hand. I've spent most of my life in and around Los Angeles, and the city has inspired me with everything from Busby Berkeley musicals to Frank Lloyd Wright's Hollyhock House. This is where I first needlepointed — a fantastic way to explore color, yarns and embellishments including beads — and then transitioned back into knitting as wearable art.
 
 Early exposure of pattern and craftsmanship also led to my passion for the materials I used in the collection — fine merino wools, mohair, rayon, silk, and other yarns that have dyed in small lots or hand-painted to ensure originality.
 
